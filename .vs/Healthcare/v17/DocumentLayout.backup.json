@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\services\\availabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\domain\\entities\\recurringschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\domain\\entities\\recurringschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\infrastructure\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\infrastructure\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|c:\\users\\wikra\\downloads\\compressed\\healthcarefinal\\healthcare.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB4638E3-A6BB-434E-8D3F-5A6C681D88B9}|Healthcare.Api\\Healthcare.Api.csproj|solutionrelative:healthcare.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthcareDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Infrastructure\\HealthcareDbContext.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Infrastructure\\HealthcareDbContext.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Infrastructure\\HealthcareDbContext.cs",
+              "RelativeToolTip": "Healthcare.Api\\Infrastructure\\HealthcareDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T04:05:48.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "Healthcare.Api\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAmwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T04:01:20.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecurringSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Domain\\Entities\\RecurringSchedule.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Domain\\Entities\\RecurringSchedule.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Domain\\Entities\\RecurringSchedule.cs",
+              "RelativeToolTip": "Healthcare.Api\\Domain\\Entities\\RecurringSchedule.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T03:57:16.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Healthcare.Api\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T02:12:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Healthcare.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\appsettings.json",
+              "RelativeToolTip": "Healthcare.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-23T05:11:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvailabilityService.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Services\\AvailabilityService.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Services\\AvailabilityService.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Services\\AvailabilityService.cs",
+              "RelativeToolTip": "Healthcare.Api\\Services\\AvailabilityService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T04:07:20.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Healthcare.Api\\Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T02:00:47.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Program.cs",
+              "RelativeToolTip": "Healthcare.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T04:10:47.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Domain\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Healthcare.Api\\Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T02:03:03.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Healthcare.Api\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Healthcare.Api\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T04:19:50.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
