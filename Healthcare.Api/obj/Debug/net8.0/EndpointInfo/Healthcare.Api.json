@@ -50,6 +50,7 @@
               "type": "string",
               "format": "uuid"
             }
+<<<<<<< HEAD
           },
           {
             "name": "currentTime",
@@ -58,6 +59,8 @@
               "type": "string",
               "format": "date-time"
             }
+=======
+>>>>>>> 713f481ed8cb755fb512fcca86f8f7eaf97263f7
           }
         ],
         "responses": {

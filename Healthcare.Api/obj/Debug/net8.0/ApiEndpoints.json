@@ -27,11 +27,14 @@
         "Name": "id",
         "Type": "System.Guid",
         "IsRequired": true
+<<<<<<< HEAD
       },
       {
         "Name": "currentTime",
         "Type": "System.DateTime",
         "IsRequired": false
+=======
+>>>>>>> 713f481ed8cb755fb512fcca86f8f7eaf97263f7
       }
     ],
     "ReturnTypes": []

@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "Healthcare.Api\\Controllers\\AppointmentsController.cs",
               "ToolTip": "C:\\Users\\wikra\\Downloads\\Compressed\\HealthcareFinal\\Healthcare.Api\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "Healthcare.Api\\Controllers\\AppointmentsController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAABRwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T14:53:03.479Z",
               "EditorCaption": ""
@@ -80,8 +80,7 @@
               "RelativeToolTip": "Healthcare.Api\\Controllers\\DoctorsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:52:07.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T12:52:07.777Z"
             },
             {
               "$type": "Document",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "Healthcare.Api\\DTOs\\AvailabilitySlotDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:52:05.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T12:52:05.954Z"
             },
             {
               "$type": "Document",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "Healthcare.Api\\Services\\AvailabilityService.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAgwBEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:51:46.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T12:51:46.087Z"
             },
             {
               "$type": "Document",

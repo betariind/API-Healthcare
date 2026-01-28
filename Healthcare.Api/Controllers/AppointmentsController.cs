@@ -22,6 +22,7 @@ public class AppointmentsController : ControllerBase
     }
 
     [HttpDelete("appointments/{id}")]
+<<<<<<< HEAD
     public async Task<IActionResult> Cancel(
     Guid id,
     [FromQuery] DateTime currentTime)
@@ -47,4 +48,16 @@ public class AppointmentsController : ControllerBase
 
 
 
+=======
+    public async Task<IActionResult> Cancel(Guid id)
+    {
+        var deleted = await _service.CancelAppointment(id);
+
+        if (!deleted)
+            return NotFound();
+
+        return NoContent(); // 204
+    }
+
+>>>>>>> 713f481ed8cb755fb512fcca86f8f7eaf97263f7
 }
